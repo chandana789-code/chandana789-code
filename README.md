@@ -12,12 +12,12 @@ Welcome to my GitHub profile! I'm passionate about coding and exploring new tech
 
 ## 🔧 Tech Stack
 
-- *Languages:* C, Python, Java
-- *Frontend:* HTML, CSS, JavaScript, Bootstrap
-- *Backend:* PHP, MySQL
-- *Version Control:* Git, GitHub
-- *Tools & Platforms:* VS Code, Android Studio
-- *Learning:* React, Node.js, Express.js, MongoDB
+- **Languages:** C, Python, Java
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap
+- **Backend:** PHP, MySQL
+- **Version Control:** Git, GitHub
+- **Tools & Platforms:** VS Code, Android Studio
+- **Learning:** React, Node.js, Express.js, MongoDB
 ## 📂 Featured Repositories
 
 ### [Birth Calculator and Personality Tester](https://github.com/chandana789-code/Birth-calculator-and-personality-tester)
@@ -33,13 +33,10 @@ A web app to help with crop marketing, focusing on spoiling and preserving crops
 
 ![Chandana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandana789-code&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-## 📊 My Contributions
-
-![Chandana's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=chandana789-code&theme=radical)
 
 ## 📬 Get In Touch
 - 📧 Email: chandanamusunuri069@gmail.com
-- 💼 LinkedIn: [LinkedIn Profile](linkedin.com/in/sai-chandana-musunuri-b5503b296)
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sai-chandana-musunuri-b5503b296)
 
 Thanks for visiting my GitHub profile! Feel free to explore my repositories and reach out if you'd like to collaborate or chat about anything coding-related.
 
